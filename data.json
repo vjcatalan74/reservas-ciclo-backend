@@ -1,0 +1,40 @@
+{
+  "classes": [
+    {
+      "id": 1,
+      "day": "Lunes",
+      "time": "18:45"
+    },
+    {
+      "id": 2,
+      "day": "Lunes",
+      "time": "19:45"
+    },
+    {
+      "id": 3,
+      "day": "Martes",
+      "time": "07:30"
+    },
+    {
+      "id": 4,
+      "day": "Miércoles",
+      "time": "18:45"
+    },
+    {
+      "id": 5,
+      "day": "Miércoles",
+      "time": "19:45"
+    },
+    {
+      "id": 6,
+      "day": "Jueves",
+      "time": "07:00"
+    },
+    {
+      "id": 7,
+      "day": "Viernes",
+      "time": "19:30"
+    }
+  ],
+  "reservations": []
+}
